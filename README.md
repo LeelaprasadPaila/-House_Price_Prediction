@@ -5,7 +5,7 @@ Here's a description of the code for House Price Prediction using Linear Regress
 
 1. **Importing Necessary Libraries**: In this code, we start by importing the required Python libraries. These libraries include NumPy for numerical operations, Pandas for data manipulation, Matplotlib for data visualization, and scikit-learn for machine learning.
 
-2. **Loading the Dataset**: The code assumes that you have a dataset in a CSV file. You need to replace `'your_dataset.csv'` with the actual path to your dataset. The dataset typically includes information about houses, such as square footage, the number of bedrooms, the number of bathrooms, and the corresponding prices.
+2. **Loading the Dataset**: The code assumes that you have a dataset in a CSV file. You need to replace `'data.csv'` with the actual path to your dataset. The dataset typically includes information about houses, such as square footage, the number of bedrooms, the number of bathrooms, and the corresponding prices.
 
 3. **Data Splitting**: The dataset is split into training and testing sets using the `train_test_split` function from scikit-learn. The training set is used to train the linear regression model, and the testing set is used to evaluate the model's performance.
 
