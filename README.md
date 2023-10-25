@@ -1,4 +1,4 @@
-# -House_Price_Prediction
+# House_Price_Prediction
 House Price Prediction is a common machine learning task that involves building a model to estimate the price of houses based on various features or attributes. In this task, we use a linear regression model to make predictions. Linear regression is a simple and widely used method for predicting a continuous target variable, such as the price of a house, based on one or more input features like square footage, the number of bedrooms, and the number of bathrooms.
 
 Here's a description of the code for House Price Prediction using Linear Regression:
